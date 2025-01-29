@@ -14,6 +14,7 @@ int main() {
         std::cout << prog(i) << " ";
     }
 
-    //SumProg(43);
+    std::cout << std::endl;
+    std::cout << SumProg(43);
     return 0;
 }
