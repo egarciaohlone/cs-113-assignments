@@ -8,3 +8,7 @@ Progressions/test.ilk
 Progressions/test.obj
 Progressions/test.pdb
 Progressions/vc140.pdb
+.vscode/launch.json
+Proofs/induction-coding-lab
+Proofs/induction-coding-lab.dSYM/Contents/Info.plist
+Proofs/induction-coding-lab.dSYM/Contents/Resources/Relocations/aarch64/induction-coding-lab.yml

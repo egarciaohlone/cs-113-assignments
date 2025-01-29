@@ -1,3 +1,3 @@
 # Recursion/Induction Coding Lab
 
-Create a function called `SumProg(n)` which sums the 1st through nth terms of the arithmetic progression `4, 7, 10, 13, ...` recursively. Use the file [`induction-coding-lab.cpp`](induction-coding-lab.cpp) as your starting point and comment the code that is already given explaining what it does. Make sure you comment the code you add. Make sure you have an easy to identiy base and recursive case. Use C++.
+Create a function called `SumProg(n)` which sums the 1st through nth terms of the arithmetic progression `4, 7, 10, 13, ...` recursively. Use the file [induction-coding-lab.cpp](induction-coding-lab.cpp) as your starting point and comment the code that is already given explaining what it does. Make sure you comment the code you add. Make sure you have an easy to identiy base and recursive case. Use C++.
