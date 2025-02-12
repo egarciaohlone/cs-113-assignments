@@ -8,6 +8,7 @@ I am using VS Code on Windows and MacOS.
 - If you're using MacOS follow the [instructions here](https://code.visualstudio.com/docs/cpp/config-clang-mac).
   - It is very important to follow the instructions about changing `$PATH`! Type this command:
     `cat << EOF >> ~/.zprofile export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin" EOF` into your `Terminal`
+    or do as advised at https://stackoverflow.com/questions/29955500/code-is-not-working-in-on-the-command-line-for-visual-studio-code-on-os-x-ma.
 
 ## Install Git
 You will have to install Git.
